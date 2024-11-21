@@ -57,4 +57,4 @@ Make sure you have Python installed (preferably Python 3.x).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Heart-Disease-Prediction-Logistic-Regression.git
+   https://github.com/Vasanth0224/Heart-Disease-Prediction-Using-Logistic-Regression.git
